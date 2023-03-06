@@ -19,4 +19,5 @@ function removeVowels(letter) {
   }
 }
 
-removeVowels("Tanvir Hossain");
+removeVowels("Kamal uddin");
+removeVowels("MD Tanvir Hossain");
